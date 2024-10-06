@@ -47,7 +47,7 @@ This repository is organized to help you progress step-by-step in C++ programmin
    - Mini projects to solidify concepts
    - Building a calculator
    - Working with files
-   - Game development with basic C++
+   - Game ML Projects
 
 8. **C++20 Features**
    - Concepts
