@@ -35,7 +35,6 @@ This repository is organized to help you progress step-by-step in C++ programmin
    - Vectors, lists, and other containers
    - Iterators
    - Algorithms and sorting
-   - Using the STL in C++20
 
 6. **Advanced Topics**
    - Lambda functions
@@ -45,11 +44,12 @@ This repository is organized to help you progress step-by-step in C++ programmin
 
 7. **Project-Based Learning**
    - Mini projects to solidify concepts
-   - Building a calculator
    - Working with files
-   - Game ML Projects
-
-8. **C++20 Features**
+   
+8. **ML Projects**
+   - Building ML projects
+   
+9.  **C++20 Features**
    - Concepts
    - Ranges
    - Coroutines
