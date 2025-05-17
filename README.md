@@ -55,6 +55,6 @@ This repository is organized to help you progress step-by-step in C++ programmin
    - Coroutines
    - Modules
 
-## 🎯 Purpose of the Repository
+## Purpose of the Repository
 
 The goal of this repository is to provide a clear, structured path for learning C++, especially for people who are interested in Machine Learning Engineering.
