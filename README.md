@@ -1,10 +1,10 @@
-# C++ Learning Journey 🚀
+# C++ Learning Journey
 
 Welcome to my **C++ Learning Journey** repository! This is a collection of notes, code examples, exercises, and resources that I’m creating to help myself and others learn C++ for Machine Learning. 
 
 **Motivation**: I noticed that there isn’t much content available online for C++ in the context of Machine Learning. To address this gap, I plan to update and enhance this repository as I progress in my learning journey, making it a valuable resource for anyone interested in C++ programming and its applications in ML.
 
-## 📚 What will be Included?
+## What will be Included?
 
 This repository is organized to help you progress step-by-step in C++ programming, starting from the very basics and moving toward more advanced topics.
 
