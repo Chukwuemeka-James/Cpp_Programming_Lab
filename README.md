@@ -21,9 +21,8 @@ Cpp_Programming_Lab/
 ├── 01_Basics/                 # Syntax, I/O, variables, data types
 │   ├── hello_world.cpp
 │   ├── variables.cpp
+│   ├── data_types.cpp 
 │   ├── input_output.cpp
-│   ├── data_types.cpp
-│   ├── comments.cpp
 │   └── Project/
 ├── 02_Control_flow/           # If-else, switch, loops, patterns
 │   ├── if_else.cpp
