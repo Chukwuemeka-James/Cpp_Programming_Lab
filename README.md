@@ -100,9 +100,9 @@ To run C++ code locally, you’ll need a C++ compiler and a code editor like **V
 **Setup Guides**
 See [`00_Setup/`](./00_Setup/) for detailed OS-specific setup instructions and tutorials:
 
-* [Install on Ubuntu](./00_Setup/ubuntu_setup.md)
-* [Install on macOS](./00_Setup/macos_setup.md)
-* [Install on Windows](./00_Setup/windows_setup.md)
+* [Install on Ubuntu](./00_Setup/Ubuntu_install_guide.md) https://github.com/Chukwuemeka-James/Cpp_Programming_Lab/blob/main/00_Setup/MacOS_install_guide.md
+* [Install on macOS](./00_Setup/MacOS_install_guide.md)
+* [Install on Windows](./00_Setup/Windows_install_guide.md)
 
 ---
 
