@@ -1,60 +1,120 @@
-# C++ Learning Journey
+# C++ Programming Lab
 
-Welcome to my **C++ Learning Journey** repository! This is a collection of notes, code examples, exercises, and resources that I’m creating to help myself and others learn C++ for Machine Learning. 
+Welcome to the **Cpp_Programming_Lab** — a structured, beginner-friendly repository designed to help you learn and master **C++ programming** from the ground up, with a focus on its applications in:
 
-**Motivation**: I noticed that there isn’t much content available online for C++ in the context of Machine Learning. To address this gap, I plan to update and enhance this repository as I progress in my learning journey, making it a valuable resource for anyone interested in C++ programming and its applications in ML.
+- 🤖 **Robotics**
+- 🌐 **Internet of Things (IoT)**
+- 🧠 **Machine Learning**
 
-## What will be Included?
+This repository includes tutorials, hands-on code examples, mini-projects, interview prep, and curated resources to guide your journey.
 
-This repository is organized to help you progress step-by-step in C++ programming, starting from the very basics and moving toward more advanced topics.
+---
 
-1. **Introduction to C++**
-   - What is C++?
-   - Setting up the development environment
-   - Basic syntax and structure
+## Directory Structure
 
-2. **C++ Fundamentals**
-   - Data types and variables
-   - Input and output in C++
-   - Operators and expressions
-   - Control structures (if-else, switch, loops)
-   - Functions and modular programming
+```bash
+Cpp_Programming_Lab/
+├── 00_Setup/                  # Installation guides for all major OS
+│   ├── ubuntu_setup.md
+│   ├── macos_setup.md
+│   └── windows_setup.md
+├── 01_Basics/                 # Syntax, I/O, variables, data types
+│   ├── hello_world.cpp
+│   ├── variables.cpp
+│   ├── input_output.cpp
+│   ├── data_types.cpp
+│   ├── comments.cpp
+│   └── Project/
+├── 02_Control_flow/           # If-else, switch, loops, patterns
+│   ├── if_else.cpp
+│   ├── switch.cpp
+│   ├── loops.cpp
+│   ├── nested_loops.cpp
+│   ├── pattern_programs.cpp
+│   └── Project/
+├── 03_Functions/              # Function basics, recursion, inline
+│   ├── functions_intro.cpp
+│   ├── function_overloading.cpp
+│   ├── recursion.cpp
+│   ├── inline_functions.cpp
+│   └── Project/
+├── 04_Arrays_and_strings/     # Arrays, strings, string functions
+│   ├── arrays.cpp
+│   ├── multidim_arrays.cpp
+│   ├── strings.cpp
+│   ├── string_functions.cpp
+│   └── Project/
+├── 05_Pointers/               # Pointers, dynamic memory, arrays
+│   ├── pointers_intro.cpp
+│   ├── pointers_and_arrays.cpp
+│   ├── pointers_and_functions.cpp
+│   ├── dynamic_memory.cpp
+│   └── Project/
+├── 06_Object_oriented/        # Classes, inheritance, polymorphism
+│   ├── classes_objects.cpp
+│   ├── constructors.cpp
+│   ├── inheritance.cpp
+│   ├── polymorphism.cpp
+│   ├── encapsulation.cpp
+│   └── Project/
+├── 07_File_handling/          # Reading and writing to files
+│   ├── file_read.cpp
+│   ├── file_write.cpp
+│   ├── file_streams.cpp
+│   └── Project/
+├── 08_Data_structures/        # Linked lists, stacks, queues, maps
+│   ├── linked_list.cpp
+│   ├── stack.cpp
+│   ├── queue.cpp
+│   ├── vector_usage.cpp
+│   ├── map_usage.cpp
+│   └── Project/
+├── 09_Algorithms/
+│   ├── searching/
+│   │   ├── linear_search.cpp
+│   │   └── binary_search.cpp
+│   ├── sorting/
+│   │   ├── bubble_sort.cpp
+│   │   ├── selection_sort.cpp
+│   │   └── quick_sort.cpp
+│   ├── recursion/
+│   │   ├── factorial.cpp
+│   │   ├── fibonacci.cpp
+│   │   └── tower_of_hanoi.cpp
+│   └── Project/
+├── 10_Notes/                  # Cheatsheets, FAQs, interview prep
+│   ├── cpp_cheatsheet.md
+│   ├── interview_questions.md
+│   └── resources.md
+├── README.md
+├── .gitignore
+└── LICENSE
+```
 
-3. **Object-Oriented Programming (OOP) Concepts**
-   - Introduction to classes and objects
-   - Constructors and destructors
-   - Inheritance and polymorphism
-   - Encapsulation and abstraction
+---
 
-4. **Memory Management in C++**
-   - Pointers and dynamic memory
-   - Smart pointers
-   - Memory leaks and how to avoid them
+## Setup & Installation
 
-5. **Standard Template Library (STL)**
-   - Vectors, lists, and other containers
-   - Iterators
-   - Algorithms and sorting
+To run C++ code locally, you’ll need a C++ compiler and a code editor like **Visual Studio Code**.
 
-6. **Advanced Topics**
-   - Lambda functions
-   - Templates and generic programming
-   - Exception handling
-   - Multithreading in C++
+**Setup Guides**
+See [`00_Setup/`](./00_Setup/) for detailed OS-specific setup instructions and tutorials:
 
-7. **Project-Based Learning**
-   - Mini projects to solidify concepts
-   - Working with files
-   
-8. **ML Projects**
-   - Building ML projects
-   
-9.  **C++20 Features**
-   - Concepts
-   - Ranges
-   - Coroutines
-   - Modules
+* [Install on Ubuntu](./00_Setup/ubuntu_setup.md)
+* [Install on macOS](./00_Setup/macos_setup.md)
+* [Install on Windows](./00_Setup/windows_setup.md)
 
-## Purpose of the Repository
+---
 
-The goal of this repository is to provide a clear, structured path for learning C++, especially for people who are interested in Machine Learning Engineering.
+## What You'll Learn
+
+By working through this lab, you'll master:
+
+* C++ syntax and best practices
+* Logic building and algorithm design
+* Problem solving using functions, loops, and recursion
+* Data structures like arrays, linked lists, stacks, and queues
+* Object-oriented programming (OOP)
+* File input/output handling
+* Algorithm design (search, sort, recursion)
+* Real-world mini projects
